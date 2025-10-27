@@ -22,8 +22,6 @@ The project follows a standard ETL workflow orchestrated by Mage:
 3.  **Load**: The transformed tables are loaded into Google BigQuery, making them available for analysis.
 4.  **Analyze**: SQL queries are run in BigQuery to join the tables and create a final analytics view.
 
-<img src="architecture.jpg" alt="Project Architecture">
-
 ## Key Insights (from `uber_data.csv`)
 - **Total Trips Analyzed**: 100,000
 - **Average Trip Distance**: 3.03 miles
